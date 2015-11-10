@@ -1,0 +1,25 @@
+.wrapper {
+	width: 30%;
+	font-family: Helvetica, sans-serif;
+	background-color: lightblue;
+	padding: 100px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 3em;
+	font-weight: thin;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	font-size: 1.2em;
+}
+
+.delete-button {
+	font-size: 0.8em;
+	margin: 5px;
+}
